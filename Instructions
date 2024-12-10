@@ -1,0 +1,5 @@
+1. Download / copy rest_test.py and run it.
+2. Open a browser at:
+http://localhost:5000/data/<ID>
+For example:
+http://localhost:5000/data/123
